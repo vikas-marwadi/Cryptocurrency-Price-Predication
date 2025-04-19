@@ -23,7 +23,7 @@ This project investigates the application of various time series forecasting mod
  
 ## Streamlit Web Application
 
-    * https://cryptocurrencyforecastproject.streamlit.app/
+    https://cryptocurrencyforecastproject.streamlit.app/
     
 ## Findings
 
